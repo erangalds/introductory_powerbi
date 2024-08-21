@@ -1,6 +1,6 @@
 ## Course Content 
 
-+ [[PowerBI Components]] 
++ [[PowerBI Components]]
 + [[Walking through the data file with PowerQuery]]
 + [[Walking through PowerBI Desktop IDE]]
 + [[Exploratory Data Analysis with PowerBI]]
