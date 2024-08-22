@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b270b2cb1a5de28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced formatting syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0748362ca0114118",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Markdown.md",
+                "file": "Advanced formatting syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Markdown.md",
+                "file": "Advanced formatting syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Markdown.md"
+                "file": "Advanced formatting syntax.md"
               }
             }
           }
@@ -162,11 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e12596ed788484d",
+  "active": "b270b2cb1a5de28e",
   "lastOpenFiles": [
+    "Obsidian Markdown.md",
+    "Advanced formatting syntax.md",
     "Introduction to PowerBI.md",
     "images 1.md",
-    "Obsidian Markdown.md",
     "images.md",
     "images/01-get-data-option.png",
     "Data Modeling with PowerBI.md",
