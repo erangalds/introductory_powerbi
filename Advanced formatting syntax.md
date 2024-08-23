@@ -28,3 +28,26 @@ You can create table using vertical bars (|) and hyphens (`-`). Vertical bars se
 > > > [!example] You can even use multiple layers of nesting
 
 
+<details>
+<summary>Click to Expand</summary>
+</details>
+
+
+> [!success]
+> Lorem ipsum 
+
+>[!question]
+>Lorem ipsum dolar sit
+
+>[!failure]
+>Failure
+
+>[!bug]
+> Bug
+
+>[!warning]
+> Warning
+
+> [!quote]
+> Quote
+
