@@ -8,3 +8,23 @@ You can create table using vertical bars (|) and hyphens (`-`). Vertical bars se
 | ---------- | --------- |
 | Max        | Planck    |
 | Marie      | Curie     |
+
+> [!info]
+> Here is a callout block
+> it supports **Markdown**, 
+
+>[!note]
+>Here is a callout block note
+
+>[!tip]
+>This is a tip
+
+> [!faq]- Are callouts foldable?
+> Yes, we can make them foldable
+
+
+> [!question] Can callouts be nested?
+> > [!todo] yes, they can.
+> > > [!example] You can even use multiple layers of nesting
+
+
