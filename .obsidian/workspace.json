@@ -6,7 +6,7 @@
       {
         "id": "e0e426dca45f12da",
         "type": "tabs",
-        "dimension": 79.82233502538071,
+        "dimension": 78.75894988066825,
         "children": [
           {
             "id": "8e12596ed788484d",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced formatting syntax.md",
+                "file": "Introduction to PowerBI.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "0748362ca0114118",
         "type": "tabs",
-        "dimension": 20.17766497461929,
+        "dimension": 21.241050119331742,
         "children": [
           {
             "id": "fb4d30c3ae619baf",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 365.5
   },
   "right": {
     "id": "988064e3476ae70d",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced formatting syntax.md",
+                "file": "Introduction to PowerBI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced formatting syntax.md",
+                "file": "Introduction to PowerBI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced formatting syntax.md"
+                "file": "Introduction to PowerBI.md"
               }
             }
           }
@@ -179,11 +179,11 @@
   "lastOpenFiles": [
     "Useful Common DAX Functions.md",
     "Introduction to PowerBI.md",
+    "Advanced formatting syntax.md",
     "Looking at Sales Trends.md",
     "Extending our Analysis with our Data Model.md",
     "Explore a little more capabilities of DAX.md",
     "Data Modeling with PowerBI.md",
-    "Advanced formatting syntax.md",
     "Obsidian Markdown.md",
     "images 1.md",
     "images.md",
