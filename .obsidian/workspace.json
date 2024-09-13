@@ -4,29 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e426dca45f12da",
+        "id": "0748362ca0114118",
         "type": "tabs",
-        "dimension": 78.75894988066825,
         "children": [
           {
-            "id": "8e12596ed788484d",
+            "id": "fb4d30c3ae619baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Markdown.md",
+                "file": "PowerBI/PowerBI_FOR_NON_TECHIES/Useful Common DAX Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b270b2cb1a5de28e",
+            "id": "3f073a5c48e1ac30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to PowerBI.md",
+                "file": "PowerBI/PowerBI_FOR_NON_TECHIES/Useful Common DAX Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,21 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0748362ca0114118",
-        "type": "tabs",
-        "dimension": 21.241050119331742,
-        "children": [
-          {
-            "id": "fb4d30c3ae619baf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 374.5
   },
   "right": {
     "id": "988064e3476ae70d",
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to PowerBI.md",
+                "file": "PowerBI/PowerBI_FOR_NON_TECHIES/Useful Common DAX Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to PowerBI.md",
+                "file": "PowerBI/PowerBI_FOR_NON_TECHIES/Useful Common DAX Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to PowerBI.md"
+                "file": "PowerBI/PowerBI_FOR_NON_TECHIES/Useful Common DAX Functions.md"
               }
             }
           }
@@ -172,28 +156,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b270b2cb1a5de28e",
+  "active": "3f073a5c48e1ac30",
   "lastOpenFiles": [
-    "Useful Common DAX Functions.md",
-    "Introduction to PowerBI.md",
-    "Advanced formatting syntax.md",
-    "Looking at Sales Trends.md",
-    "Extending our Analysis with our Data Model.md",
-    "Explore a little more capabilities of DAX.md",
-    "Data Modeling with PowerBI.md",
-    "Obsidian Markdown.md",
+    "AdventureWorks Raw Data/Full Model WIP.pbix",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Introduction to PowerBI.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Explore a little more capabilities of DAX.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Useful Common DAX Functions.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Data Modeling with PowerBI.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Introduction to Explicit Measures with DAX.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Exploratory Data Analysis with PowerBI.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Walking through PowerBI Desktop IDE.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Walking through the data file with PowerQuery.md",
+    "Welcome.md",
+    "Markdown/Obsidian Markdown.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Productionize a PowerBI Report.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Looking at Sales Trends.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/Extending our Analysis with our Data Model.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/PowerBI Components.md",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/129-breaking-product-SKUs.png",
+    "Markdown/Advanced formatting syntax.md",
+    "Markdown",
+    "PowerBI/PowerBI_FOR_NON_TECHIES",
+    "PowerBI",
     "images 1.md",
     "images.md",
-    "images/01-get-data-option.png",
-    "Introduction to Explicit Measures with DAX.md",
-    "Exploratory Data Analysis with PowerBI.md",
-    "Walking through PowerBI Desktop IDE.md",
-    "Walking through the data file with PowerQuery.md",
-    "PowerBI Components.md",
-    "129-breaking-product-SKUs.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/01-get-data-option.png",
     "Combined Adventure Works Data File.xlsx",
     "AdventureWorks Raw Data/Sales Data/AdventureWorks Sales Data 2022.csv",
     "AdventureWorks Raw Data/Sales Data/AdventureWorks Sales Data 2021.csv",
@@ -201,18 +192,13 @@
     "AdventureWorks Raw Data/Sales Data",
     "AdventureWorks Raw Data/ALM Toolkit Demo/ALM Toolkit Modified File.pbix",
     "AdventureWorks Raw Data/ALM Toolkit Demo/ALM Toolkit Base File.pbix",
-    "AdventureWorks Raw Data/ALM Toolkit Demo",
-    "AdventureWorks Raw Data/Product Category Sales (Unpivot Demo).csv",
-    "AdventureWorks Raw Data/Full Model File.pbix",
-    "images/110-adding-average-max-lines.png",
-    "128-validating-measures-with-multiple-filters.png",
-    "images/127-matrix-visuals-to-validate-DAX-measures.png",
-    "images/126-values-changed.png",
-    "images/125-change-data-points.png",
-    "images/124-validate-measures.png",
-    "images/123-how-the-filtering-measures-work-2.png",
-    "images/122-how-the-filtering-measures-work-1.png",
-    "Productionize a PowerBI Report.md",
-    "Welcome.md"
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/110-adding-average-max-lines.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/128-validating-measures-with-multiple-filters.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/127-matrix-visuals-to-validate-DAX-measures.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/126-values-changed.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/125-change-data-points.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/124-validate-measures.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/123-how-the-filtering-measures-work-2.png",
+    "PowerBI/PowerBI_FOR_NON_TECHIES/images/122-how-the-filtering-measures-work-1.png"
   ]
 }
